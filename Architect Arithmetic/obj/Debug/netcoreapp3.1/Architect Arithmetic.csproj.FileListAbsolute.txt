@@ -1,0 +1,13 @@
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\bin\Debug\netcoreapp3.1\Architect Arithmetic.exe
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\bin\Debug\netcoreapp3.1\Architect Arithmetic.deps.json
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\bin\Debug\netcoreapp3.1\Architect Arithmetic.runtimeconfig.json
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\bin\Debug\netcoreapp3.1\Architect Arithmetic.runtimeconfig.dev.json
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\bin\Debug\netcoreapp3.1\Architect Arithmetic.dll
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\bin\Debug\netcoreapp3.1\Architect Arithmetic.pdb
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.csprojAssemblyReference.cache
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.AssemblyInfoInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.AssemblyInfo.cs
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.csproj.CoreCompileInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.dll
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.pdb
+D:\Dayton\Personal Projects\C# Projects\Architect Arithmetic\obj\Debug\netcoreapp3.1\Architect Arithmetic.genruntimeconfig.cache
